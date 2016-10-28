@@ -50,3 +50,7 @@ hacen a la perfección
 ## Conclusión
 
 **Necesitas ambos tipos de tests**
+
+## Notas a mano
+
+![Notas tomadas a mano](../images/unit-vs-integration-tests-funfunfunction-taken-notes.jpg)
